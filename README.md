@@ -139,11 +139,3 @@ npm start
 - Built using open-source technologies and UI libraries.
 
 ---
-
-## 🌐 Links & Contact
-
-- 🚀 **Live Website:** [adbmybrand.netlify.app](https://adbmybrand.netlify.app/)
-- 💻 **GitHub Repo:** [github.com/nitindavegit/ADmyBRAND](https://github.com/nitindavegit/ADmyBRAND)
-- 🐦 **Twitter:** [@NitinDave77](https://x.com/NitinDave77)
-
-For questions or support, open an issue or contact the maintainer on [Twitter](https://x.com/NitinDave77).
